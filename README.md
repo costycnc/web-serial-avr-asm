@@ -1,5 +1,3 @@
----
-
 # Web Serial API + AVR Assembly Control 🔌
 
 This project demonstrates how to bridge the gap between a modern web browser and low-level hardware. You can control an Arduino (ATmega328P) directly from a webpage using the **Web Serial API**, without any intermediate server or software.
