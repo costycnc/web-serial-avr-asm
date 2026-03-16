@@ -9,8 +9,8 @@ This project demonstrates how to bridge the gap between a modern web browser and
 
 ## 📖 Live Documentation
 You can read the full step-by-step tutorial in two languages:
-- 🇺🇸 **[English Version (Mirror)](en.html)**
-- 🇮🇹 **[Versione Italiana (Mirror)](index.html)**
+- 🇺🇸 **[English Version (Mirror)](index.html)**
+- 🇮🇹 **[Versione Italiana (Mirror)](it.html)**
 
 ---
 
@@ -20,7 +20,7 @@ For the complete guide, more CNC projects, and advanced AVR tutorials, visit my 
 
 ## 🛠️ How to Test
 1. Connect your Arduino to a USB port.
-2. Open the [Live Demo](https://tuo-username.github.io/web-serial-avr-asm/) (Enable GitHub Pages in settings).
+2. Open the [Live Demo]([https://costycnc.github.io/web-serial-avr-asm/]) (Enable GitHub Pages in settings).
 3. Click "Connect", select your COM port, and start sending commands!
 
 ---
